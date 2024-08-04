@@ -13,6 +13,7 @@ function App() {
           image={products.image}
           price={products.price}
         />
+        <h1>hello</h1>
         {/* <Card
           title={item1.title}
           description={item1.description}
