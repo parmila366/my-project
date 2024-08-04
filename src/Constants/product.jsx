@@ -1,0 +1,52 @@
+const products = [
+  {
+    id: 1,
+    title: "book",
+    image: "/book.jpg",
+    description: "book is your holiday",
+    price: "$ 50",
+    category: "book",
+    enable: false,
+  },
+  {
+    id: 1,
+    title: "flower",
+    image: "/flower.avif",
+    description: "best",
+    price: "$ 20",
+    category: "flower",
+  },
+  {
+    id: 1,
+    title: "book",
+    image: "/book.jpg",
+    description: "best",
+    price: "$ 30",
+    category: "book",
+  },
+  {
+    id: 1,
+    title: "flower",
+    image: "/flower.avif",
+    description: "best",
+    price: "$40",
+    category: "flower",
+  },
+  {
+    id: 1,
+    title: "book",
+    image: "/book.jpg",
+    description: "book is your holiday",
+    price: "$40",
+    category: "book",
+  },
+  {
+    id: 1,
+    title: "book",
+    image: "/book.jpg",
+    description: "book is your holiday",
+    price: "$40",
+    category: "book",
+  },
+];
+export default products;
